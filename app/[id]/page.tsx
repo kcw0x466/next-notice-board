@@ -114,7 +114,7 @@ export default function PostDetail() {
           </div>
         )}
         <div className="flex justify-between items-center">
-          <Link href="/" className="bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded">
+          <Link href="/posts" className="bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded">
             목록으로
           </Link>
           <div className="flex items-center">

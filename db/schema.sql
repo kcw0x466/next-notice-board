@@ -1,6 +1,6 @@
 -- 데이터베이스 생성
-CREATE DATABASE IF NOT EXISTS noticeboard;
-USE noticeboard;
+CREATE DATABASE IF NOT EXISTS next_noticeboard;
+USE next_noticeboard;
 
 -- posts 테이블 생성
 CREATE TABLE IF NOT EXISTS posts (
